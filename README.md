@@ -1,2 +1,5 @@
 # Stock-Analysis
-I wrote a Python script that predicts the stock price for the next day.
+
+This repository contains a Python script that predicts stock prices for the next day using machine learning techniques.
+
+📈 **Note:** The accuracy depends on the dataset and selected model parameters.
